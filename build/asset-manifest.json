@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d55ebedd.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.38b63af9.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.38b63af9.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.7a76fc22.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.7a76fc22.js.map",
-    "static/js/2.caa11aab.chunk.js": "/react-gh-pages/static/js/2.caa11aab.chunk.js",
-    "static/js/2.caa11aab.chunk.js.map": "/react-gh-pages/static/js/2.caa11aab.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.feffd908483b53ae27bc9fda345dd1ff.js": "/react-gh-pages/precache-manifest.feffd908483b53ae27bc9fda345dd1ff.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.d55ebedd.chunk.css.map": "/react-gh-pages/static/css/main.d55ebedd.chunk.css.map",
-    "static/js/2.caa11aab.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.caa11aab.chunk.js.LICENSE.txt",
-    "static/media/buffalo.jpg": "/react-gh-pages/static/media/buffalo.e4582b14.jpg",
-    "static/media/burger.png": "/react-gh-pages/static/media/burger.bb6e9464.png",
-    "static/media/me.jpg": "/react-gh-pages/static/media/me.1a37a169.jpg",
-    "static/media/music.jpg": "/react-gh-pages/static/media/music.21933e42.jpg",
-    "static/media/weather.png": "/react-gh-pages/static/media/weather.95ef3d5d.png"
+    "main.css": "/Homework20/static/css/main.d55ebedd.chunk.css",
+    "main.js": "/Homework20/static/js/main.275740c6.chunk.js",
+    "main.js.map": "/Homework20/static/js/main.275740c6.chunk.js.map",
+    "runtime-main.js": "/Homework20/static/js/runtime-main.8bc70c52.js",
+    "runtime-main.js.map": "/Homework20/static/js/runtime-main.8bc70c52.js.map",
+    "static/js/2.caa11aab.chunk.js": "/Homework20/static/js/2.caa11aab.chunk.js",
+    "static/js/2.caa11aab.chunk.js.map": "/Homework20/static/js/2.caa11aab.chunk.js.map",
+    "index.html": "/Homework20/index.html",
+    "precache-manifest.fc5e50da52225b8460f6a020a34d5a01.js": "/Homework20/precache-manifest.fc5e50da52225b8460f6a020a34d5a01.js",
+    "service-worker.js": "/Homework20/service-worker.js",
+    "static/css/main.d55ebedd.chunk.css.map": "/Homework20/static/css/main.d55ebedd.chunk.css.map",
+    "static/js/2.caa11aab.chunk.js.LICENSE.txt": "/Homework20/static/js/2.caa11aab.chunk.js.LICENSE.txt",
+    "static/media/buffalo.jpg": "/Homework20/static/media/buffalo.e4582b14.jpg",
+    "static/media/burger.png": "/Homework20/static/media/burger.bb6e9464.png",
+    "static/media/me.jpg": "/Homework20/static/media/me.1a37a169.jpg",
+    "static/media/music.jpg": "/Homework20/static/media/music.21933e42.jpg",
+    "static/media/weather.png": "/Homework20/static/media/weather.95ef3d5d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a76fc22.js",
+    "static/js/runtime-main.8bc70c52.js",
     "static/js/2.caa11aab.chunk.js",
     "static/css/main.d55ebedd.chunk.css",
-    "static/js/main.38b63af9.chunk.js"
+    "static/js/main.275740c6.chunk.js"
   ]
 }

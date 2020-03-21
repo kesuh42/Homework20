@@ -1,0 +1,11 @@
+.footerContent {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 80px;
+    width: 100%;
+    background-color: #666666;
+    border-top: 10px solid #4aaaa5;
+    color: white;
+    text-align: center;
+}

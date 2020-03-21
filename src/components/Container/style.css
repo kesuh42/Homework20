@@ -1,0 +1,9 @@
+.pagebackground {
+    background-color: #dddddd;
+    height: 1200px;
+}
+
+.topmargin {
+    padding-top: 40px;
+    border-top: #cccccc 3px solid;
+}
